@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('../fonts/Roboto-Light.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/Roboto-Regular.ttf');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../fonts/Roboto-Medium.ttf');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url('../fonts/Roboto-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Futura PT';
+  font-display: block;
+  src: url('../fonts/FuturaPT-Demi.ttf');
+}
+
+@font-face {
+  font-family: 'Arial Black';
+  font-display: block;
+  src: url('../fonts/Arial-Black.ttf');
+}
+
+@font-face {
+  font-family: 'Humnst777';
+  font-display: block;
+  src: url('../fonts/Humnst777-Blk-BT-Black-Italic.ttf');
+}
+
+@font-face {
+  font-family: 'swiss';
+  font-display: block;
+  src: url('../fonts/swiss.ttf');
+}
